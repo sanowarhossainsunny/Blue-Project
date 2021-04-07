@@ -1,3 +1,2 @@
-# Blue-dream-project
-Blue-dream-project
+# Blue-Project
 https://sanowarhossainsunny.github.io/Blue-dream-project/
